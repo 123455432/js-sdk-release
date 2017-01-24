@@ -1,8 +1,7 @@
 # Change Log
 
-## [0.1.19] - 2016-10-31
-
-- Internal fixes.
+## [0.1.18-patch.1] - 2017-01-23
+- fix webpack issue with lodash.uniq , SetCache and "v.push"
 
 ## [0.1.18] - 2016-10-04
 
